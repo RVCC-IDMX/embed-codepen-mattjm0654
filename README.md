@@ -10,5 +10,5 @@
 6. **Carefully insert** the copied code into the empty **section** element inside the index.html file
 
 ### Selected Pen - link to your selected pen
-
-[**INSERT THE PEN TITLE HERE**](https://codepen.io)
+https://codepen.io/lbebber/pen/nqwBKK
+[CSS Glitched Text](https://codepen.io)
